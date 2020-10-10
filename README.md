@@ -30,8 +30,8 @@ are familiar with the patterns.
 This site showcases Java Design Patterns. The solutions have been developed by
 experienced programmers and architects from the open source community. The 
 patterns can be browsed by their high level descriptions or by looking at their
-source code. The source code examples are well commented and can be thought as
-programming tutorials how to implement a specific pattern. We use the most
+source code. The source code examples are well commented and can be thought of as
+programming tutorials on how to implement a specific pattern. We use the most
 popular battle-proven open source Java technologies.
 
 Before you dive into the material, you should be familiar with various
